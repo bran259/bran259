@@ -15,10 +15,3 @@ Software Developer
 </p>
 
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/bran259"><img src="https://github-readme-stats.vercel.app/api?username=bran259&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=134e4a&hide_border=true&show_icons=true" alt="bran259's GitHub stats" /></a>
-
-<a href="http://www.github.com/bran259"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bran259&stroke=ffffff&background=134e4a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/bran259" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bran259&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
