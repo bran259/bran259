@@ -13,20 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bran259&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <a href="https://github.com/bran259" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bran259&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=facc15&bg_color=134e4a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bran259&theme=vue&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bran259&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=bran259&icon=5&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Brian kimno) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
