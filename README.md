@@ -1,5 +1,23 @@
 # 💫 About Me:
-🌍 I'm based in Nairobi<br>✉️ You can contact me at kimnobrian31@gmail.com<br>🧠 I'm currently learning python<br>👥 I'm looking to collaborate on interesting projects<br>💬 Ask me about In case you don`t know am a footballer
+
+> I build web, mobile apps and stuff and stuff.
+> React · React  · TypeScript · Python  
+
+
+✉️ You can contact me at kimnobrian31@gmail.com<br>👥 I'm looking to collaborate on interesting projects<br>
+
+```ts
+const brian = {
+  builds: ["web", "mobile"],
+  stack: ["React", "React Native", "Expo", "Node", "Python"],
+  learning: ["NestJS"],
+  interests: ["Open Source", "Dev Tools", "DX"],
+  builds:    ["web", "mobile"],
+  stack:     ["React", "React Native", "Expo", "Express", "Python"],
+  learning:  ["Project Structuring"],
+  interests: ["Scalable Software", "Javascript Ecosystem", "DX"],
+};
+````
 
 
 ## 🌐 Socials:
@@ -13,14 +31,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bran259&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bran259&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=bran259&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
