@@ -29,19 +29,7 @@ def about():
 
 <a href="https://www.github.com/bran259" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bran259?logo=github&style=for-the-badge&color=facc15&labelColor=134e4a" /></a>
-### GitHub Stats
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bran259&theme=gruvbox" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bran259&theme=solarized" alt="Christine's GitHub Profile Details" width="100%" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Mumbi286&background=00000000&hide_border=true&ring=A47551&fire=A47551&currStreakLabel=A47551&sideLabels=A47551&currStreakNum=F5E6D3&sideNums=F5E6D3&dates=A47551" />
-    <img src="https://streak-stats.demolab.com/?user=bran259&background=00000000&hide_border=true&ring=A47551&fire=A47551&currStreakLabel=A47551&sideLabels=6B4A32&currStreakNum=2C1810&sideNums=2C1810&dates=6B4A32" alt="Christine's Contribution Streak" />
-  </picture>
-</p>
+
 
 ###  Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
